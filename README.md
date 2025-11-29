@@ -42,6 +42,10 @@ V. This is the electrical power supplied to the LED. Data sheets for the LED spe
 •	Plot the graph of receiver current v/s output optical power of the LED.
 •	Perform the above procedure again for all the combinations of Transmitter & Receiver.
 
+## 🔌 CONNECTION DIAGRAM
+
+<img width="773" height="485" alt="image" src="https://github.com/user-attachments/assets/43dc41da-70eb-44fc-87c0-5211ffdae836" />
+
 ## 📊 TABULATION
 
 LED Forward Characteristics 
